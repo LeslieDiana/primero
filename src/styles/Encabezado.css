@@ -1,0 +1,48 @@
+.Inicio {
+    width: 364px;
+    height: 67px;
+    background: #EB5757;
+    display: grid;
+}
+
+.Circulo {
+    border-radius: 50%;
+    box-sizing: border-box;
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 8px;
+    top: 20px;
+    border: 1px solid #FFFFFF;
+    display: flex;
+    justify-content: center;
+}
+
+.T1 {
+    position: absolute;
+    width: 162px;
+    height: 19px;
+    left: 52px;
+    top: 25px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+}
+
+.T2 {
+    margin-inline-start: 20px;
+    margin-left: 60%;
+    font-family: 'Lato';
+    font-weight: 700;
+    color: #FFFFFF;
+}
+
+.Logo {
+    width: 8%;
+    margin-left: 85%;
+}
